@@ -6,10 +6,10 @@
 /* Styles go here */
 
 /*
-¾ãÅé¼e 960px
+ï¿½ï¿½ï¿½ï¿½ï¿½e 960px
 Logo: http://i.imgur.com/pHyusTb.png
-µn¤J¤p¤H: http://i.imgur.com/HxSb8GP.png
-¿ï³æ 15px
+ï¿½nï¿½Jï¿½pï¿½H: http://i.imgur.com/HxSb8GP.png
+ï¿½ï¿½ï¿½ï¿½ 15px
 */
 
 #a header {
@@ -50,8 +50,8 @@ Logo: http://i.imgur.com/pHyusTb.png
 }
 #b section .phone {
   position: absolute;
-  top: 150px;
-  left:30px;
+  top: 200px;
+  left:15px;
 }
 #b .price {
   font-size: 24px;
