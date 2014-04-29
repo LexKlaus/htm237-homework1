@@ -50,8 +50,8 @@ Logo: http://i.imgur.com/pHyusTb.png
 }
 #b.phone (#1){
   position: absolute;
-  top: 200px;
-  left:15px;
+  top: 100px;
+  left:0px;
 }
 #b .price {
   font-size: 24px;
