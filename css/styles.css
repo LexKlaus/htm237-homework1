@@ -48,7 +48,7 @@ Logo: http://i.imgur.com/pHyusTb.png
   font-size: 20px;
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
 }
-#b section .phone {
+#b.phone {
   position: absolute;
   top: 200px;
   left:15px;
