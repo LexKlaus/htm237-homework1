@@ -49,7 +49,7 @@ Logo: http://i.imgur.com/pHyusTb.png
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
 }
 #b.phone {
-  position: relative;
+  position: fixed;
   top: 100px;
   left:0px;
 }
