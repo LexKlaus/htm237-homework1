@@ -48,8 +48,8 @@ Logo: http://i.imgur.com/pHyusTb.png
   font-size: 20px;
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
 }
-#b.phone (#1){
-  position: absolute;
+#b.phone {
+  position: relative;
   top: 100px;
   left:0px;
 }
