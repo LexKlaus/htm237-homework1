@@ -13,10 +13,10 @@ Logo: http://i.imgur.com/pHyusTb.png
 */
 
 #a header {
-  overflow:auto;
+  display:block;
   width: 960px;
   margin: 0 auto;
-  display:block;
+
   
 }
 #a h1 {
