@@ -52,7 +52,7 @@ Logo: http://i.imgur.com/pHyusTb.png
 }
 #b.phone {
   clear:left;
-  position: absolute;
+  float:left;
   top: 960px;
   left: 0px;
   
