@@ -13,10 +13,11 @@ Logo: http://i.imgur.com/pHyusTb.png
 */
 
 #a header {
+  overflow:auto;
   display:block;
   width: 960px;
   margin: 0 auto;
-
+  
   
 }
 #a h1 {
@@ -53,9 +54,7 @@ Logo: http://i.imgur.com/pHyusTb.png
 }
 #b.phone {
   clear:left;
-  float:left;
-  top: 960px;
-  left: 0px;
+ 
   
 }
 #b .price {
