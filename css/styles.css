@@ -55,7 +55,7 @@ Logo: http://i.imgur.com/pHyusTb.png
 }
 #b.phone {
   
-  float:left;
+  clear:left;
   
 }
 #b .price {
