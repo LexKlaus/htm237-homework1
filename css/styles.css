@@ -49,6 +49,8 @@ Logo: http://i.imgur.com/pHyusTb.png
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
 }
 #b.phone {
+ top:100px;
+ left:0px;
  clear:left;
 }
 #b .price {
