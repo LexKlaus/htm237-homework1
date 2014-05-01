@@ -57,6 +57,7 @@ Logo: http://i.imgur.com/pHyusTb.png
   clear:left;
   top:90px;
   left:10px;
+  float:left;
 }
 #b .price {
   font-size: 24px;
