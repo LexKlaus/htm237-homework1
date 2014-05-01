@@ -18,7 +18,7 @@ Logo: http://i.imgur.com/pHyusTb.png
   width: 960px;
   height:150px;
   margin: 0 auto;
-  
+  overflow:auto;
   
 }
 #a h1 {
