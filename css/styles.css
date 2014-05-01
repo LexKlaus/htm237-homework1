@@ -14,10 +14,11 @@ Logo: http://i.imgur.com/pHyusTb.png
 
 #a header {
   
-height:506px;
+
 overflow:auto;
-  
-  
+width: 960px;
+margin: 0 auto;  
+
 }
 #a h1 {
   float: left;
@@ -53,9 +54,9 @@ overflow:auto;
 }
 #b.phone {
   
-  position:absolute;
-  top:506px;
-  left:10px;
+  position: absolute;
+  top: 0;
+  left: 160px;
   clear:left;
 }
 #b .price {
