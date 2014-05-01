@@ -14,12 +14,11 @@ Logo: http://i.imgur.com/pHyusTb.png
 
 #a header {
   
-  display:block;
+  
   width: 960px;
   height:300px;
   margin: 0 auto;
-  overflow:auto;
-  
+  display:block;
 }
 #a h1 {
   float: left;
@@ -54,7 +53,7 @@ Logo: http://i.imgur.com/pHyusTb.png
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
 }
 #b.phone {
-  display:block;
+  
   clear:left;
   top:90px;
   left:10px;
