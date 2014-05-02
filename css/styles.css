@@ -17,6 +17,7 @@ Logo: http://i.imgur.com/pHyusTb.png
 
 overflow:auto;
 width: 960px;
+height:300px;
 margin: 0 auto;  
 
 }
@@ -52,7 +53,7 @@ margin: 0 auto;
   font-size: 20px;
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
 }
-#b.phone {
+#b .phone {
   
   position: absolute;
   top: 0;
