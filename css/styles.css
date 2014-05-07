@@ -59,7 +59,7 @@ margin: 0 auto;
   top: 100px;
   left: 200px;
   position:absolute;
-  overflow:auto;
+  overflow:hidden;
 
 }
 #b .price {
