@@ -52,14 +52,14 @@ margin: 0 auto;
   position: relative;
   font-size: 20px;
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
-}
+  
 #b .phone {
   
   
   top: 100px;
   left: 200px;
   position:relative;
-  
+  clear:left;
 }
 #b .price {
   font-size: 24px;
