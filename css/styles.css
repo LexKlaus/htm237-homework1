@@ -59,7 +59,7 @@ margin: 0 auto;
   top: 100px;
   left: 0px;
   position:relative;
-  
+  overflow:auto;
 }
 #b .price {
   font-size: 24px;
