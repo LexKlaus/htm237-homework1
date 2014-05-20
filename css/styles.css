@@ -56,10 +56,10 @@ margin: 0 auto;
 #b .phone {
   
   
-  top: 100px;
-  left: 0px;
-  position:relative;
-  overflow:auto;
+  position: absolute;
+  top: 80px;
+  left: 160px;
+  height: 400px;
 }
 #b .price {
   font-size: 24px;
