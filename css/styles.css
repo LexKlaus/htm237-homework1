@@ -60,6 +60,7 @@ margin: 0 auto;
   top: 80px;
   left: 160px;
   height: 400px;
+  clear:left;
 }
 #b .price {
   font-size: 24px;
