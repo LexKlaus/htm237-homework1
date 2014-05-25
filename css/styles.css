@@ -39,7 +39,7 @@ height:427px;
   margin-left: 3em;
 }
 
-#a img {
+#a div {
   float: left;
   margin-left: 3em;
 }
@@ -50,14 +50,14 @@ height:427px;
  #b div {
   position: absolute;
   top: 80px;
-  left: 560px;
+  left: 760px;
   float: right;
   margin-top: 3em;
 }
 #b section {
   width: 960px;
   margin: 0 auto;
-  height: 400px;
+  height: 200px;
   position: absolute;
   font-size: 20px;
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
@@ -67,7 +67,7 @@ height:427px;
   
   position: absolute;
   top: 100px;
-  left: 220px;
+  left: 380px;
   height: 400px;
   clear:left;
 }
