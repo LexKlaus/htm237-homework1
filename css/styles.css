@@ -19,7 +19,7 @@ overflow:hidden;
 width: 960px;
 height:517px;
 margin: 0 auto;  
-
+overflow: auto;
 }
 #a h1 {
   float: left;
@@ -62,7 +62,7 @@ margin: 0 auto;
   position: absolute;
   top: 80px;
   left: 160px;
-  height: 400px;
+  height: 200px;
   clear:left;
 }
 #b .price {
