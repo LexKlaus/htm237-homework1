@@ -17,7 +17,7 @@ Logo: http://i.imgur.com/pHyusTb.png
 
 overflow:hidden;
 width: 960px;
-height:417px;
+height:427px;
 
 }
 
@@ -38,6 +38,12 @@ height:417px;
   float: left;
   margin-left: 3em;
 }
+
+#a img {
+  float: left;
+  margin-left: 3em;
+}
+
 #b {
   height: 400px;
 }
@@ -60,8 +66,8 @@ height:417px;
   
   
   position: absolute;
-  top: 90px;
-  left: 200px;
+  top: 100px;
+  left: 220px;
   height: 400px;
   clear:left;
 }
