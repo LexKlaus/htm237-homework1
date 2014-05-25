@@ -12,7 +12,7 @@ Logo: http://i.imgur.com/pHyusTb.png
 ���� 15px
 */
 
-#a header {
+#a {
   
 
 overflow:hidden;
@@ -37,6 +37,9 @@ margin: 0 auto;
 #a li {
   float: left;
   margin-left: 3em;
+}
+#b {
+  height: 400px;
 }
  #b div {
   position: absolute;
