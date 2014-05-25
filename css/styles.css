@@ -51,7 +51,7 @@ overflow: auto;
 #b section {
   width: 960px;
   margin: 0 auto;
-  height: 800px;
+  height: 600px;
   position: relative;
   font-size: 20px;
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
@@ -61,8 +61,8 @@ overflow: auto;
   
   position: absolute;
   top: 80px;
-  left: 160px;
-  height: 200px;
+  left: 180px;
+  height: 400px;
   clear:left;
 }
 #b .price {
