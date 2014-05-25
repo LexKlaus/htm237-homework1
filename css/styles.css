@@ -15,12 +15,11 @@ Logo: http://i.imgur.com/pHyusTb.png
 #a {
   
 
-overflow:hidden;
+overflow:auto;
 width: 960px;
 height:517px;
 margin: 0 auto;  
-overflow: auto;
-}
+
 #a h1 {
   float: left;
 }
@@ -60,7 +59,7 @@ overflow: auto;
   
   
   position: absolute;
-  top: 70px;
+  top: 90px;
   left: 200px;
   height: 400px;
   clear:left;
