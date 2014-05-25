@@ -42,6 +42,7 @@ height:427px;
 #a div {
   float: left;
   margin-left: 3em;
+  top:50px;
 }
 
 #b {
